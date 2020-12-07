@@ -1,14 +1,22 @@
 # Google-OAuth
+IT16067370 - Rathnayaka M.H.K.R.
+IT17100076 - Silva S.R.R.M.
 
-Definition for OAuth 2.0 is can be explained as the industry-standard protocol for authorization/
-approval. OAuth 2.0 spotlights on the customer engineer straightforwardness while giving direct
-approval streams to work area applications, web applications lounge gadgets and cell phones. This
-determination and its augmentations are being created inside the IETF OAuth Working Group.
-Furthermore, the OAuth 2.0 approval structure empowers an outsider application to get restricted
-admittance to a HTTP administration, or on sake of an asset proprietor by organizing an
-endorsement association between the asset proprietor and the HTTP administration, or by
-permitting the outsider application to get access for its own benefit. If consider about OAuth 1.0,
-OAuth 1.0 is utilized distinctly to help already existing arrangements. The OAuth 2.0 convention
-offers not many usage subtleties with OAuth 1.0 convention. Developers acquainted with OAuth
-1.0 should move toward this new archive with no presumptions regarding its structure and
-subtleties.
+This web application consist the service of an OAuth Authorization Server and an OAuth Resource Server.
+Go to the GoogleDevelpers site and obtain the ClientID and the Secret Key by connecting the Google account with the Client Application.
+The Application was implemented using the HTML, CSS, JavaSript and WAMP Server. Visual Studio Code was used as the IDE.
+
+Steps to build and deploy the application for testing.
+
+1. Create a folder in to the mentioned location. (C:\wamp64\www)
+2. Clone the project to the newly created folder.
+3. Open the command promt from the same location and open the project from Visual Studio Code.(Type in the command Propmt-->> code .)
+4. Start the WAMP server.
+5. Open the application with the url 'http://localhost/SSD-Project/'.
+
+ Now the application is all set and can start the testing with following flow.
+ * Sign In to the appliation.
+ * Browse to the needed location and select the file wanted to upload.
+ * Click the Upload button to Upload to the Google Drive.
+ * Go to the Google drive you can view the uploaded file. 
+
