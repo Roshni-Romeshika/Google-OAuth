@@ -1,4 +1,5 @@
-# Google-OAuth
+# SSD-Assignment_02
+
 IT16067370 - Rathnayaka M.H.K.R.
 IT17100076 - Silva S.R.R.M.
 
@@ -19,4 +20,3 @@ Steps to build and deploy the application for testing.
  * Browse to the needed location and select the file wanted to upload.
  * Click the Upload button to Upload to the Google Drive.
  * Go to the Google drive you can view the uploaded file. 
-
